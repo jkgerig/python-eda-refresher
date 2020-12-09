@@ -1,0 +1,501 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "2d7w-77um",
+      "name" : "Projects Under Construction",
+      "averageRating" : 0,
+      "createdAt" : 1419041152,
+      "displayType" : "table",
+      "downloadCount" : 1167,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "indexUpdatedAt" : 1480736037,
+      "newBackend" : true,
+      "numberOfComments" : 0,
+      "oid" : 25006415,
+      "provenance" : "official",
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1480736023,
+      "publicationGroup" : 1997787,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1480736014,
+      "rowsUpdatedBy" : "ck4w-i5dk",
+      "tableId" : 13933502,
+      "totalTimesRated" : 0,
+      "viewCount" : 421,
+      "viewLastModified" : 1480736023,
+      "viewType" : "tabular",
+      "approvals" : [ {
+        "reviewedAt" : 1480736023,
+        "reviewedAutomatically" : true,
+        "state" : "approved",
+        "submissionId" : 807139,
+        "submissionObject" : "public_audience_request",
+        "submissionOutcome" : "change_audience",
+        "submittedAt" : 1480736023,
+        "workflowId" : 2182,
+        "submissionDetails" : {
+          "permissionType" : "READ"
+        },
+        "submissionOutcomeApplication" : {
+          "failureCount" : 0,
+          "status" : "success"
+        },
+        "submitter" : {
+          "id" : "ck4w-i5dk",
+          "displayName" : "sojiri"
+        }
+      } ],
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 280095072,
+        "name" : "Job No",
+        "dataTypeName" : "text",
+        "fieldName" : "job_no",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23446793,
+        "width" : 172,
+        "cachedContents" : {
+          "largest" : "62-36-6549",
+          "non_null" : 53,
+          "null" : 0,
+          "top" : [ {
+            "item" : "12-14-7365",
+            "count" : 20
+          }, {
+            "item" : "62-10-0671",
+            "count" : 19
+          }, {
+            "item" : "62-10-0706",
+            "count" : 18
+          }, {
+            "item" : "62-10-0709",
+            "count" : 17
+          }, {
+            "item" : "62-10-0742",
+            "count" : 16
+          }, {
+            "item" : "62-10-0743",
+            "count" : 15
+          }, {
+            "item" : "62-10-0789",
+            "count" : 14
+          }, {
+            "item" : "62-10-0791",
+            "count" : 13
+          }, {
+            "item" : "62-10-0807",
+            "count" : 12
+          }, {
+            "item" : "62-36-6542",
+            "count" : 11
+          }, {
+            "item" : "62-36-6545",
+            "count" : 10
+          }, {
+            "item" : "62-36-6549",
+            "count" : 9
+          } ],
+          "smallest" : "12-10-0464"
+        },
+        "format" : { }
+      }, {
+        "id" : 280095073,
+        "name" : "DESCRIPTION",
+        "dataTypeName" : "text",
+        "fieldName" : "description",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 23446794,
+        "width" : 232,
+        "cachedContents" : {
+          "largest" : "WASHINGTON PLACE - HEALTH, SAFETY, AND PRESERVATION IMPROVEMENTS",
+          "non_null" : 53,
+          "null" : 0,
+          "top" : [ {
+            "item" : "LILIHA CIVIC CENTER - HEALTH AND SAFETY IMPROVEMENTS",
+            "count" : 20
+          }, {
+            "item" : "KEKUANAOA BUILDING - REPLACE AIR CONDITIONING AHUS AND FCUS",
+            "count" : 19
+          }, {
+            "item" : "STATE CAPITOL - FIRE ALARM SYSTEM IMPROVEMENTS",
+            "count" : 18
+          }, {
+            "item" : "KALANIMOKU BUILDING - FIRE ALARM SYSTEM IMPROVEMENTS",
+            "count" : 17
+          }, {
+            "item" : "NO. 1 CAPITOL DISTRICT BUILDING - REROOF AND REPAIR EXTERIOR",
+            "count" : 16
+          }, {
+            "item" : "KEONI ANA BUILDING - REROOF MAIN BUILDING AND BRIDGE, AND OTHER IMPROVEMENTS",
+            "count" : 15
+          }, {
+            "item" : "KEKUANAOA BUILDING - REPLACE ROOF AND EXHAUST FANS",
+            "count" : 14
+          }, {
+            "item" : "OR&L ANNEX - REROOF AND SPALL REPAIR",
+            "count" : 13
+          }, {
+            "item" : "NO. 1 CAPITOL DISTRICT BUILDING - REPLACE CHILLER NO. 3 AND PUMPS",
+            "count" : 12
+          }, {
+            "item" : "MILILANI PUBLIC LIBRARY - ROOF REPAIR AND COURTYARD ENCLOSURE",
+            "count" : 11
+          }, {
+            "item" : "HAWAII STATE PUBLIC LIBRARY SYSTEM, LSS AND PLB - RELOCATION",
+            "count" : 10
+          }, {
+            "item" : "KAIMUKI PUBLIC LIBRARY - REPLACE A/C CHILLERS & COOLING TOWER, & OTHER IMPROV.",
+            "count" : 9
+          } ],
+          "smallest" : "ALIIAIMOKU HALE - RESTROOM REHABILITATION"
+        },
+        "format" : { }
+      }, {
+        "id" : 280095074,
+        "name" : "NTP",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "ntp",
+        "position" : 4,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 23446795,
+        "width" : 136,
+        "cachedContents" : {
+          "largest" : "2017-02-27T00:00:00",
+          "non_null" : 53,
+          "null" : 0,
+          "top" : [ {
+            "item" : "2016-11-14T00:00:00",
+            "count" : 20
+          }, {
+            "item" : "2016-11-28T00:00:00",
+            "count" : 19
+          }, {
+            "item" : "2016-11-01T00:00:00",
+            "count" : 18
+          }, {
+            "item" : "2016-05-02T00:00:00",
+            "count" : 17
+          }, {
+            "item" : "2015-02-20T00:00:00",
+            "count" : 16
+          }, {
+            "item" : "2016-10-17T00:00:00",
+            "count" : 15
+          }, {
+            "item" : "2016-10-24T00:00:00",
+            "count" : 14
+          }, {
+            "item" : "2016-11-21T00:00:00",
+            "count" : 13
+          }, {
+            "item" : "2016-02-29T00:00:00",
+            "count" : 12
+          }, {
+            "item" : "2016-11-29T00:00:00",
+            "count" : 11
+          } ],
+          "smallest" : "2011-05-02T00:00:00"
+        },
+        "format" : { }
+      }, {
+        "id" : 280095075,
+        "name" : "Amount",
+        "dataTypeName" : "number",
+        "fieldName" : "amount",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 23446796,
+        "width" : 172,
+        "cachedContents" : {
+          "largest" : "24890000",
+          "non_null" : 53,
+          "average" : "2723743.633207547",
+          "null" : 0,
+          "top" : [ {
+            "item" : "194000",
+            "count" : 20
+          }, {
+            "item" : "1446894",
+            "count" : 19
+          }, {
+            "item" : "1947900",
+            "count" : 18
+          }, {
+            "item" : "1047700",
+            "count" : 17
+          }, {
+            "item" : "7083460",
+            "count" : 16
+          }, {
+            "item" : "658875",
+            "count" : 15
+          }, {
+            "item" : "788036",
+            "count" : 14
+          }, {
+            "item" : "145220",
+            "count" : 13
+          }, {
+            "item" : "317745",
+            "count" : 12
+          }, {
+            "item" : "1267000",
+            "count" : 11
+          }, {
+            "item" : "76430",
+            "count" : 10
+          }, {
+            "item" : "1120745",
+            "count" : 9
+          } ],
+          "smallest" : "53425",
+          "sum" : "144358412.56"
+        },
+        "format" : {
+          "precisionStyle" : "currency",
+          "currencyStyle" : "USD",
+          "precision" : "2"
+        }
+      }, {
+        "id" : 280095076,
+        "name" : "Estimated Completion",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "estimated_completion",
+        "position" : 6,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 23446797,
+        "width" : 340,
+        "cachedContents" : {
+          "largest" : "2018-03-08T00:00:00",
+          "non_null" : 53,
+          "null" : 0,
+          "top" : [ {
+            "item" : "2017-04-16T00:00:00",
+            "count" : 20
+          }, {
+            "item" : "2016-04-01T00:00:00",
+            "count" : 19
+          }, {
+            "item" : "2015-11-11T00:00:00",
+            "count" : 18
+          }, {
+            "item" : "2017-04-19T00:00:00",
+            "count" : 17
+          }, {
+            "item" : "2018-03-01T00:00:00",
+            "count" : 16
+          }, {
+            "item" : "2016-10-31T00:00:00",
+            "count" : 15
+          }, {
+            "item" : "2017-05-14T00:00:00",
+            "count" : 14
+          }, {
+            "item" : "2017-01-21T00:00:00",
+            "count" : 13
+          }, {
+            "item" : "2017-05-19T00:00:00",
+            "count" : 12
+          }, {
+            "item" : "2017-07-28T00:00:00",
+            "count" : 11
+          }, {
+            "item" : "2016-10-25T00:00:00",
+            "count" : 10
+          }, {
+            "item" : "2017-06-27T00:00:00",
+            "count" : 9
+          } ],
+          "smallest" : "2014-03-22T00:00:00"
+        },
+        "format" : { }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Reference" : {
+            "Reference for Technical Information" : "",
+            "Frequency" : "",
+            "Date Updated" : "",
+            "Date Released" : "",
+            "Period of Coverage" : "",
+            "Unit of Analysis" : "",
+            "Data dictionary/variable list" : ""
+          },
+          "Hawaii Line of Business" : {
+            "Division name" : "",
+            "Line of Business" : "",
+            "Division shortname, acronym" : "",
+            "Department Agency short name, acronym" : "",
+            "State of Hawaii Data Book Category" : "",
+            "Department/Agency" : ""
+          },
+          "Terms of Use Acknowledgement" : {
+            "I agree by uploading this dataset that it contains no private information, and adheres to the data.hawaii.gov terms of use." : "yes"
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        }
+      },
+      "owner" : {
+        "id" : "ck4w-i5dk",
+        "displayName" : "sojiri",
+        "profileImageUrlLarge" : "/api/users/ck4w-i5dk/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/ck4w-i5dk/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/ck4w-i5dk/profile_images/TINY",
+        "screenName" : "sojiri",
+        "type" : "interactive",
+        "userSegment" : "site_member"
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "ck4w-i5dk",
+        "displayName" : "sojiri",
+        "profileImageUrlLarge" : "/api/users/ck4w-i5dk/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/ck4w-i5dk/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/ck4w-i5dk/profile_images/TINY",
+        "screenName" : "sojiri",
+        "type" : "interactive",
+        "userSegment" : "site_member"
+      },
+      "flags" : [ "default", "restorable", "restorePossibleForType" ]
+    }
+  },
+  "data" : [ [ "row-3497~5bd7~p6pa", "00000000-0000-0000-9D49-719CCAD2ADD4", 0, 1541631548, null, 1541631548, null, "{ }", "12-10-0464", "KAMAMALU BUILDING - RENOVATION", "2015-03-30T00:00:00", "24890000", "2016-12-31T00:00:00" ]
+, [ "row-u5hk.ifar~wd6y", "00000000-0000-0000-0C5C-98AD8A1B2CC7", 0, 1541631548, null, 1541631548, null, "{ }", "12-10-0603", "ICSD, ROUND TOP (PUU UALAKAA) RADIO FACILITY - BUILDING ADDITION & OTHER IMPRVTS", "2011-08-11T00:00:00", "1070500", "2014-03-22T00:00:00" ]
+, [ "row-tw26.7zss.24d3", "00000000-0000-0000-E20D-5D8348EDB43E", 0, 1541631548, null, 1541631548, null, "{ }", "12-10-0624", "ICSD MT. KAALA RADIO FAC - BUILDING AND ELECTRICAL INFRASTRUCTURE IMPROVEMENTS", "2013-08-19T00:00:00", "177700", "2016-02-12T00:00:00" ]
+, [ "row-a3a4-yv4r_ackf", "00000000-0000-0000-6806-18062E5FB643", 0, 1541631548, null, 1541631548, null, "{ }", "12-10-0733", "INFORMATION AND COMMUNICATION SERVICES DIVISION - PAHOLE RADIO FACILITY", "2015-06-08T00:00:00", "2131170", "2016-09-02T00:00:00" ]
+, [ "row-siv7-c64g-b2ce", "00000000-0000-0000-6A88-62638DDE73D2", 0, 1541631548, null, 1541631548, null, "{ }", "12-10-0750", "STATE CAPITOL BUILDING - REPLACE UPPER ROOF", "2016-07-05T00:00:00", "6774500", "2017-12-22T00:00:00" ]
+, [ "row-84f4.yh7c-5cu8", "00000000-0000-0000-6E6F-CCAB3226BCAD", 0, 1541631548, null, 1541631548, null, "{ }", "12-10-0752", "ICSD RADIO FAC, KALANIMOKU BLDG - UPGRADE OF INVERTER & RELATED ELECT. INFRASTR.", "2014-11-25T00:00:00", "86143", "2015-04-23T00:00:00" ]
+, [ "row-igub-bitx~7877", "00000000-0000-0000-6877-2A554D81914C", 0, 1541631548, null, 1541631548, null, "{ }", "12-10-0773", "ICSD KOKO HEAD RADIO FCLTY, OAHU - NEW WIND BARRIER FOR EMRGNCY GNRTR FUEL TANK", "2016-11-14T00:00:00", "136000", "2017-05-12T00:00:00" ]
+, [ "row-pc82-xjey_cikh", "00000000-0000-0000-F6E6-C69A784D54EF", 0, 1541631548, null, 1541631548, null, "{ }", "12-10-0794", "WAIPAHU CIVIC CENTER - OFFICE SPACE RENOVATIONS", "2016-10-24T00:00:00", "539000", "2017-08-19T00:00:00" ]
+, [ "row-swfy~tw2c~nnww", "00000000-0000-0000-0A84-57C52ED20361", 0, 1541631548, null, 1541631548, null, "{ }", "12-10-0811", "WASHINGTON PLACE - HEALTH, SAFETY, AND PRESERVATION IMPROVEMENTS", "2016-11-28T00:00:00", "2152000", "2017-08-15T00:00:00" ]
+, [ "row-qjcb_e663~c3xk", "00000000-0000-0000-713B-F56CBB31534C", 0, 1541631548, null, 1541631548, null, "{ }", "12-11-7503", "DOA KING STREET FACILITY-PLANT PATHOLOGY BUILDING & KING STREET ANNEX, A/C IMPRV", "2014-10-10T00:00:00", "222200", "2016-04-11T00:00:00" ]
+, [ "row-wre4-8mqr~m7x7", "00000000-0000-0000-EC56-57469801E8C4", 0, 1541631548, null, 1541631548, null, "{ }", "12-11-7629", "DOA KING ST FACILITY - YOUNG ST. ANNEX & BOARDROOM RPLC AIR CONDITIONING SYSTEMS", "2016-11-01T00:00:00", "382422", "2017-07-28T00:00:00" ]
+, [ "row-wmya_gib8.jbmr", "00000000-0000-0000-D16B-81DDADAC0E08", 0, 1541631548, null, 1541631548, null, "{ }", "12-14-7365", "HAWAII STATE CIVIL DEFENSE - DISASTER WARNING & COMM SYS DEVICES, WORK ORDER 3", "2014-07-15T00:00:00", "560373", "2014-12-11T00:00:00" ]
+, [ "row-u9p5.fcxf.cazy", "00000000-0000-0000-8555-24A9F9791424", 0, 1541631548, null, 1541631548, null, "{ }", "12-14-7365", "HAWAII STATE CIVIL DEFENSE - DISASTER WARNING & COMM SYS DEVICES, WORK ORDER 4", "2015-05-26T00:00:00", "1609769", "2015-10-07T00:00:00" ]
+, [ "row-3hw9-bqz9-av9j", "00000000-0000-0000-B85D-E3524C3811DF", 0, 1541631548, null, 1541631548, null, "{ }", "12-14-7512", "STATE CIVIL DEFENSE - BUILDING 303, EXTERIOR HARDENING", "2016-05-02T00:00:00", "1188000", "2016-12-11T00:00:00" ]
+, [ "row-jbh2-3qtf_pvn3", "00000000-0000-0000-0979-DB6847440794", 0, 1541631548, null, 1541631548, null, "{ }", "12-14-7514", "JARRETT MIDDLE SCH - BLDGS F (ADMIN/LIBRARY) & G (CAFETERIA), SHELTER HARDENING", "2016-12-01T00:00:00", "953000", "2017-07-27T00:00:00" ]
+, [ "row-wu2x-63b9-tw3e", "00000000-0000-0000-3B9C-7EB693AFF80E", 0, 1541631548, null, 1541631548, null, "{ }", "12-14-7612", "NIU VALLEY MIDDLE SCHOOL - HARDENING OF HURRICANE SHELTERS", "2015-12-07T00:00:00", "884000", "2016-08-20T00:00:00" ]
+, [ "row-qmbp.kuyv-nbw5", "00000000-0000-0000-F668-5DC258A7B195", 0, 1541631548, null, 1541631548, null, "{ }", "12-20-2613", "WAIMANO RIDGE  - SITE WATER SYSTEM IMPROVEMENTS", "2011-05-02T00:00:00", "4037847", "2016-11-30T00:00:00" ]
+, [ "row-4db8-nsnd-r825", "00000000-0000-0000-26DF-7B387D6E102C", 0, 1541631548, null, 1541631548, null, "{ }", "12-20-2661", "WAIMANO RIDGE, ULUAKUPU - INTERIOR RENOVATION & MECHANICAL SYSTEM IMPROVEMENTS", "2015-02-20T00:00:00", "3175435", "2016-04-14T00:00:00" ]
+, [ "row-vqu4.dnte-tenk", "00000000-0000-0000-2CEA-DB11B80B5E5D", 0, 1541631548, null, 1541631548, null, "{ }", "12-20-2662", "HAWAII STATE HOSPITAL - SYSTEM-WIDE EMERGENCY GENERATORS", "2015-06-15T00:00:00", "4768700", "2016-11-05T00:00:00" ]
+, [ "row-darn.az7j-yv9t", "00000000-0000-0000-5882-FF1285EC80B5", 0, 1541631548, null, 1541631548, null, "{ }", "12-20-2671", "HALAWA VECTOR CONTROL FACILITY - OFFICE SPACE AND ACCESSIBILITY IMPROVEMENTS", "2014-12-08T00:00:00", "1879000", "2016-01-09T00:00:00" ]
+, [ "row-nke4_itkt~np5w", "00000000-0000-0000-5322-7AF074AE41A1", 0, 1541631548, null, 1541631548, null, "{ }", "12-20-2672", "WAIMANO RIDGE - BUILDING 5, REROOF AND IMPROVEMENTS", "2016-01-11T00:00:00", "1748400", "2017-08-17T00:00:00" ]
+, [ "row-a6nz_pxuq~cthg", "00000000-0000-0000-E14C-7D2889EBFABF", 0, 1541631548, null, 1541631548, null, "{ }", "12-20-2678", "WAIMANO RIDGE - VEHICLE BARRIER AND SITE IMPROVEMENTS", "2016-11-07T00:00:00", "249700", "2017-04-05T00:00:00" ]
+, [ "row-m6d8.944v_65ms", "00000000-0000-0000-06CA-6297416828ED", 0, 1541631548, null, 1541631548, null, "{ }", "12-20-2693", "WAIMANO RIDGE - IMPROVEMENTS TO BUILDINGS AND SITE", "2015-03-16T00:00:00", "15151000", "2017-07-18T00:00:00" ]
+, [ "row-rff7~ng65_qge9", "00000000-0000-0000-DC5F-EA187A10890A", 0, 1541631548, null, 1541631548, null, "{ }", "12-20-2696", "HAWAII STATE HOSPITAL - GODDARD BUILDING, DEMOLITION", "2016-02-29T00:00:00", "2986000", "2017-01-21T00:00:00" ]
+, [ "row-vbjf-w5xv.u8ah", "00000000-0000-0000-9AE1-5FAD038E8002", 0, 1541631548, null, 1541631548, null, "{ }", "12-20-2705", "LANAKILA HEALTH CENTER - INSTALL SECURITY FENCING, GATES, AND LIGHTS", "2016-11-28T00:00:00", "248400", "2017-04-26T00:00:00" ]
+, [ "row-ki5b_ekqq_swjx", "00000000-0000-0000-FCC0-C256A0753BE2", 0, 1541631548, null, 1541631548, null, "{ }", "12-21-7489", "KAPOLEI JUDICIARY COMPLEX - COURT BUILDING 1ST FL, PUBLIC SERVICE COUNTER IMPRV.", "2016-11-01T00:00:00", "53425", "2017-04-29T00:00:00" ]
+, [ "row-j2qp_342g-3w6m", "00000000-0000-0000-D47F-F55B180C78A9", 0, 1541631548, null, 1541631548, null, "{ }", "12-21-7490", "KAPUAIWA BUILDING - WINDOWS, DOORS, ROOFING, AND A/C IMPROVEMENTS", "2015-01-12T00:00:00", "1906244", "2016-06-03T00:00:00" ]
+, [ "row-gxej~muhw.8kip", "00000000-0000-0000-4726-49658749765B", 0, 1541631548, null, 1541631548, null, "{ }", "12-21-7491", "KAAHUMANU HALE - ROOF AND LANAI UPGRADES AND IMPROVEMENTS", "2015-05-01T00:00:00", "3429340", "2017-02-14T00:00:00" ]
+, [ "row-pbn2~4k5h~ugpb", "00000000-0000-0000-4428-03AE7B02C63A", 0, 1541631548, null, 1541631548, null, "{ }", "12-21-7528", "KAUIKEAOULI HALE - AIR CONDITIONING SYSTEM CONTROLS EQUIPMENT UPGRADE", "2014-12-15T00:00:00", "142000", "2016-08-16T00:00:00" ]
+, [ "row-4ew3~tpcw_rxf8", "00000000-0000-0000-C9A9-608AF0BE3A3E", 0, 1541631548, null, 1541631548, null, "{ }", "12-27-5564", "WAIAWA CORRECTIONAL FACILITY - ELECTRICAL SYSTEM IMPROVEMENTS", "2016-05-02T00:00:00", "917700", "2016-11-07T00:00:00" ]
+, [ "row-ikga.52vd~pnai", "00000000-0000-0000-F3EC-2F161D27422B", 0, 1541631548, null, 1541631548, null, "{ }", "12-27-5635", "HALAWA CORRECTIONAL FACILITY - MEDIUM SECURITY FACILITY, REPLACE PLUMBING LINES", "2017-02-27T00:00:00", "3585869", "2018-03-08T00:00:00" ]
+, [ "row-9zpa_ymcr_pc55", "00000000-0000-0000-2B6F-30F03A3F7AF0", 0, 1541631548, null, 1541631548, null, "{ }", "12-27-5644", "HALAWA CORRECTIONAL FACILITY - SECURITY ELECTRONICS & HARDWARE REPAIRS & IMPROV.", "2016-02-16T00:00:00", "9751064", "2017-12-29T00:00:00" ]
+, [ "row-qw58_b7j8.h48z", "00000000-0000-0000-7F01-594EFE4C6712", 0, 1541631548, null, 1541631548, null, "{ }", "12-33-7607", "HOOPONO BLDGS. A & B - AIR CONDITIONING, RESTROOMS, ROOF, AND OTHER IMPROVEMENTS", "2016-11-14T00:00:00", "1384400", "2017-09-09T00:00:00" ]
+, [ "row-djx2_srih_hq2q", "00000000-0000-0000-71EC-D2500C87D807", 0, 1541631548, null, 1541631548, null, "{ }", "12-36-6513", "NANAKULI PUBLIC LIBRARY - .", "2015-10-13T00:00:00", "12319000", "2017-03-31T00:00:00" ]
+, [ "row-fp5z~uvs3~4s7w", "00000000-0000-0000-3BF4-70091BA49B7B", 0, 1541631548, null, 1541631548, null, "{ }", "12-36-6556", "WAIKIKI KAPAHULU PUB LIB & LIB FOR BLIND/PHYS HANDICAP - LANDSCAPE & IRRIG IMPRV", "2016-11-23T00:00:00", "338182", "2017-05-01T00:00:00" ]
+, [ "row-ragx.mrne~zrry", "00000000-0000-0000-3E30-7AA60CC2D712", 0, 1541631548, null, 1541631548, null, "{ }", "16-10-0731", "ICSD RADIO FACILITIES, STATEWIDE - UPGRADE OF DC BATTERY POWER SYSTEM", "2016-08-29T00:00:00", "1348406.66", "2018-03-01T00:00:00" ]
+, [ "row-ewv2_mtjh_a2dm", "00000000-0000-0000-BEED-50F890CDB7E6", 0, 1541631548, null, 1541631548, null, "{ }", "22-10-0802", "PARKING LOT V (VINEYARD GARAGE) - EXTERIOR REPAINTING AND RELATED WORK, PHASE 1", "2016-11-14T00:00:00", "686550", "2017-11-08T00:00:00" ]
+, [ "row-4aji.bcjy~dxhb", "00000000-0000-0000-AFFE-081493D3244B", 0, 1541631548, null, 1541631548, null, "{ }", "22-13-7601", "KEKUANAOA BUILDING -  B-1 & B-2, RENOVATIONS FOR PUC & AG OFFICES", "2015-10-20T00:00:00", "3107490", "2017-03-30T00:00:00" ]
+, [ "row-r23d-46a6.tyrb", "00000000-0000-0000-30F9-5553FBB24B19", 0, 1541631548, null, 1541631548, null, "{ }", "22-29-7547", "ALIIAIMOKU HALE - RESTROOM REHABILITATION", "2015-12-01T00:00:00", "898904", "2016-09-04T00:00:00" ]
+, [ "row-kgx4_fsaw-giwr", "00000000-0000-0000-828D-B9FD3C0E35EF", 0, 1541631548, null, 1541631548, null, "{ }", "42-26-7449", "HAWAII CONVENTION CENTER - VARIOUS REPAIRS AND IMPROVEMENTS, PHASE 1", "2016-12-05T00:00:00", "7797573.9", "2017-08-05T00:00:00" ]
+, [ "row-dqbn-m7qs.ttta", "00000000-0000-0000-9570-ABE0EC7C6B2A", 0, 1541631548, null, 1541631548, null, "{ }", "52-10-0659", "KEELIKOLANI BUILDING - INSTALL PV SYSTEM AND REPLACE UPPER ROOF", "2015-02-20T00:00:00", "2597000", "2017-05-26T00:00:00" ]
+, [ "row-j7h6~m7cp.b447", "00000000-0000-0000-9297-2EF16B2C3FE3", 0, 1541631548, null, 1541631548, null, "{ }", "62-10-0427", "LILIHA CIVIC CENTER - HEALTH AND SAFETY IMPROVEMENTS", "2017-01-17T00:00:00", "194000", "2017-04-16T00:00:00" ]
+, [ "row-89zk.s4uh_5qq3", "00000000-0000-0000-E3D0-1291C94E3FBB", 0, 1541631548, null, 1541631548, null, "{ }", "62-10-0671", "KEKUANAOA BUILDING - REPLACE AIR CONDITIONING AHUS AND FCUS", "2014-09-23T00:00:00", "1446894", "2016-04-01T00:00:00" ]
+, [ "row-ujp8-9wh9~nt9g", "00000000-0000-0000-FC89-F5ABA8E5ABD3", 0, 1541631548, null, 1541631548, null, "{ }", "62-10-0706", "STATE CAPITOL - FIRE ALARM SYSTEM IMPROVEMENTS", "2014-04-22T00:00:00", "1947900", "2015-11-11T00:00:00" ]
+, [ "row-43ei-cegf~bwu8", "00000000-0000-0000-5BE0-3D0D15532E4D", 0, 1541631548, null, 1541631548, null, "{ }", "62-10-0709", "KALANIMOKU BUILDING - FIRE ALARM SYSTEM IMPROVEMENTS", "2016-11-21T00:00:00", "1047700", "2017-04-19T00:00:00" ]
+, [ "row-fhrh~vnsv~gu3d", "00000000-0000-0000-C6C8-A458F6819AD3", 0, 1541631548, null, 1541631548, null, "{ }", "62-10-0742", "NO. 1 CAPITOL DISTRICT BUILDING - REROOF AND REPAIR EXTERIOR", "2017-02-15T00:00:00", "7083460", "2018-03-01T00:00:00" ]
+, [ "row-4bgg-dazb-qq8z", "00000000-0000-0000-AEBB-CEFD5B876F8D", 0, 1541631548, null, 1541631548, null, "{ }", "62-10-0743", "KEONI ANA BUILDING - REROOF MAIN BUILDING AND BRIDGE, AND OTHER IMPROVEMENTS", "2015-07-14T00:00:00", "658875", "2016-10-31T00:00:00" ]
+, [ "row-axux~r4wr.ssys", "00000000-0000-0000-43E1-12EE4A1934C1", 0, 1541631548, null, 1541631548, null, "{ }", "62-10-0789", "KEKUANAOA BUILDING - REPLACE ROOF AND EXHAUST FANS", "2016-10-17T00:00:00", "788036", "2017-05-14T00:00:00" ]
+, [ "row-hmvr-jegj.pr4n", "00000000-0000-0000-A660-49143038F9A8", 0, 1541631548, null, 1541631548, null, "{ }", "62-10-0791", "OR&L ANNEX - REROOF AND SPALL REPAIR", "2016-10-24T00:00:00", "145220", "2017-01-21T00:00:00" ]
+, [ "row-m7sp~fsax-8hwa", "00000000-0000-0000-8AC5-E6DF2F851592", 0, 1541631548, null, 1541631548, null, "{ }", "62-10-0807", "NO. 1 CAPITOL DISTRICT BUILDING - REPLACE CHILLER NO. 3 AND PUMPS", "2016-11-21T00:00:00", "317745", "2017-05-19T00:00:00" ]
+, [ "row-vccd_ip6y~n92u", "00000000-0000-0000-F24E-E281660928DA", 0, 1541631548, null, 1541631548, null, "{ }", "62-36-6542", "MILILANI PUBLIC LIBRARY - ROOF REPAIR AND COURTYARD ENCLOSURE", "2016-11-01T00:00:00", "1267000", "2017-07-28T00:00:00" ]
+, [ "row-jxin_brbu~95qq", "00000000-0000-0000-5410-AE64746435F6", 0, 1541631548, null, 1541631548, null, "{ }", "62-36-6545", "HAWAII STATE PUBLIC LIBRARY SYSTEM, LSS AND PLB - RELOCATION", "2016-02-29T00:00:00", "76430", "2016-10-25T00:00:00" ]
+, [ "row-snfx_5ujc~kcji", "00000000-0000-0000-DC44-0934D2BB958C", 0, 1541631548, null, 1541631548, null, "{ }", "62-36-6549", "KAIMUKI PUBLIC LIBRARY - REPLACE A/C CHILLERS & COOLING TOWER, & OTHER IMPROV.", "2016-11-29T00:00:00", "1120745", "2017-06-27T00:00:00" ]
+ ]
+}
