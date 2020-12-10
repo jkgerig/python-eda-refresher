@@ -1,2 +1,8 @@
 # Notebooks
 .ipynb_checkpoints
+
+# Large Files
+data/Call_for_Service_2020.csv
+
+# VSCode
+.vscode
